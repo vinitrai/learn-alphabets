@@ -589,8 +589,8 @@ const alphabets=[
             src:'./images/flowers/yarrow.jpg'
         },
         fruit:{
-            name:'zucchini',
-            src:'./images/fruits/zucchini.jpg'
+            name:'yellow watermelon',
+            src:'./images/fruits/yellowwatermelon.jpg'
         }
     }
 },
@@ -612,8 +612,8 @@ const alphabets=[
             src:'./images/flowers/zephyranthes.jpg'
         },
         fruit:{
-            name:'cherry',
-            src:'./images/fruits/cherry.jpg'
+            name:'Zucchini',
+            src:'./images/fruits/zucchini.jpg'
         }
     }
 }
